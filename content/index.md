@@ -4,7 +4,7 @@ draft: false
 tags: [welcome, home]
 ---
 
-# Welcome to Sleepy Planet 🌙
+# Hey there! Welcome to Sleepy Planet 🌙
 
 Welcome to the Sleepy Planet knowledge base! This is your new Obsidian-powered publishing system built with Quartz.
 

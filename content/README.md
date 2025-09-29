@@ -32,3 +32,4 @@ Browse the notes using the sidebar, search for topics, or explore the graph view
 ---
 
 *Built with ❤️ using Quartz v4.5.2*
+
